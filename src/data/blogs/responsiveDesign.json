@@ -1,0 +1,26 @@
+{
+  "title": "Why Responsive Design Matters for Your Website",
+  "heroImage": "/assets/blog/responsive-design.jpg",
+  "content": [
+    {
+      "heading": "What is Responsive Design?",
+      "text": "Responsive design ensures your website adjusts to various screen sizes, providing an optimal viewing experience on desktops, tablets, and smartphones."
+    },
+    {
+      "heading": "Benefits of Responsive Design",
+      "text": "A responsive website improves user experience, reduces bounce rates, and increases engagement, making it essential for modern websites."
+    },
+    {
+      "heading": "SEO and Mobile-Friendliness",
+      "text": "Search engines prioritize mobile-friendly websites. A responsive design can boost your SEO rankings and help your site reach more mobile users."
+    },
+    {
+      "heading": "Improved Accessibility",
+      "text": "Responsive design ensures that everyone, regardless of their device, has a seamless experience. This accessibility broadens your audience reach."
+    },
+    {
+      "heading": "Future-Proofing Your Website",
+      "text": "Responsive design makes it easier to adapt to new devices and screen sizes, helping you future-proof your website and keep up with changing technology."
+    }
+  ]
+}

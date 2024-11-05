@@ -1,0 +1,26 @@
+{
+  "title": "Effective Digital Marketing Strategies for 2024",
+  "heroImage": "/assets/blog/digital-marketing-2024.jpg",
+  "content": [
+    {
+      "heading": "Content Marketing",
+      "text": "Creating valuable and engaging content is essential for attracting and retaining your audience. High-quality content builds trust and establishes authority in your industry."
+    },
+    {
+      "heading": "Social Media Marketing",
+      "text": "Social media remains a powerful tool for reaching a broad audience. Use it to engage, inform, and connect with your customers on platforms where they spend their time."
+    },
+    {
+      "heading": "Email Marketing",
+      "text": "Email marketing is a direct way to reach customers with personalized content and offers. It helps build relationships and can lead to higher conversion rates."
+    },
+    {
+      "heading": "Influencer Marketing",
+      "text": "Collaborating with influencers can amplify your reach and build credibility. Choose influencers whose values align with your brand and have a strong connection with your target audience."
+    },
+    {
+      "heading": "SEO and PPC Advertising",
+      "text": "Combine SEO for organic reach with PPC for targeted campaigns. This balanced approach increases your visibility and helps capture a wider audience."
+    }
+  ]
+}

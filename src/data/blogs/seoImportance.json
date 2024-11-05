@@ -1,0 +1,26 @@
+{
+  "title": "The Importance of SEO for Modern Businesses",
+  "heroImage": "/assets/blog/seo.jpg",
+  "content": [
+    {
+      "heading": "What is SEO?",
+      "text": "SEO, or Search Engine Optimization, involves optimizing your website to improve its visibility on search engines. Higher rankings mean more exposure and potential customers."
+    },
+    {
+      "heading": "Why SEO Matters",
+      "text": "SEO helps businesses reach their target audience organically, making it a cost-effective strategy. With most consumers starting their journey on search engines, SEO is critical for visibility and credibility."
+    },
+    {
+      "heading": "Understanding Keywords",
+      "text": "Keywords are the terms people use to search for products and services. By researching and optimizing your content with relevant keywords, you increase the chances of appearing in relevant searches."
+    },
+    {
+      "heading": "Content Quality and Relevance",
+      "text": "Search engines prioritize high-quality, relevant content. By providing value to your audience, you build trust and improve your chances of ranking higher."
+    },
+    {
+      "heading": "Technical SEO",
+      "text": "Technical SEO ensures that your website's backend is optimized, including loading speed, mobile-friendliness, and security. A well-optimized site improves the user experience and can lead to better search engine rankings."
+    }
+  ]
+}
